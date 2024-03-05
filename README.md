@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Web developer and Design
 -------------------------------
 
-I'm learning Software Development with CodeSpace for a year, to require a certificate, I recently found some interest in AI engineering.
+I'm learning Software Development with CodeSpace for a year, to acquire a certificate, I recently found some interest in AI engineering.
 
 * 🌍  I'm based in Rustenburg
 * 🖥️  See my portfolio at [My Portfolio](http://https://scrimba.com/scrim/cbmDRBCv?a=43294.0.1.L13_53)
