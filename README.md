@@ -5,6 +5,9 @@ Junior Web developer and Design
 -------------------------------
 
 I'm learning Software Development with CodeSpace for a year, to acquire a certificate, I recently found some interest in AI engineering.
+<img align="right" alt="Data" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3MycWhnYzd6YWU1eHR5MnFxeDJpMHVrNHp6cnhyNmtlZWQ0aDY4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp">
+
+<
 
 * 🌍  I'm based in Rustenburg
 * 🖥️  See my portfolio at [My Portfolio](http://https://scrimba.com/scrim/cbmDRBCv?a=43294.0.1.L13_53)
